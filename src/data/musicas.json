@@ -1,0 +1,26 @@
+[
+{
+   "id": 1,
+   "nome": "Velha Infância",
+   "artista": "Tribalistas",
+   "album": "Tribalistas"
+},
+{
+   "id": 2,
+   "nome": "Sozinho",
+   "artista": "Caetano Veloso",
+   "album": "Prenda Minha"
+},
+{
+   "id": 3,
+   "nome": "Nocaute",
+   "artista": "Jorge & Mateus",
+   "album": "Os Anjos Cantam"
+},
+{
+   "id": 4,
+   "nome": "Best Part",
+   "artista": "Daniel Caesar feat. H.E.R.",
+   "album": "Freudian"
+}
+]

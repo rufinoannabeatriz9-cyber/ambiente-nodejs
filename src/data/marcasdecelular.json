@@ -1,0 +1,28 @@
+[
+{
+    "id": 1,
+    "marca": "Samsung",
+    "pais": "Coreia do Sul",
+    "sistemaOperacional": "Android"
+},
+{
+    "id": 2,
+    "marca": "iPhone",
+    "fabricante": "Apple",
+    "pais": "Estados Unidos",
+    "sistemaOperacional": "iOS"
+},
+{
+    "id": 3,
+    "marca": "Redmi",
+    "fabricante": "Xiaomi",
+    "pais": "China",
+    "sistemaOperacional": "Android"
+},
+{
+    "id": 4,
+    "marca": "LG",
+    "pais": "Coreia do Sul",
+    "sistemaOperacional": "Android"
+}
+]

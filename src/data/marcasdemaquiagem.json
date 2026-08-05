@@ -1,0 +1,30 @@
+[
+{
+    "id": 1,
+    "marca": "Mari Maria Makeup",
+    "tipo": "Nacional",
+    "produtoMaisFamoso": "Base Cover Up",
+    "acabamento": "Alta cobertura"
+},
+{
+    "id": 2,
+    "marca": "Mary Kay",
+    "tipo": "Internacional",
+    "produtoMaisFamoso": "Base TimeWise 3D",
+    "acabamento": "Natural"
+},
+{
+    "id": 3,
+    "marca": "Ruby Rose",
+    "tipo": "Nacional",
+    "produtoMaisFamoso": "Base Feels Mood",
+    "acabamento": "Matte"
+},
+{
+    "id": 4,
+    "marca": "Dior",
+    "tipo": "Internacional",
+    "produtoMaisFamoso": "Dior Forever Skin Glow",
+    "acabamento": "Luminoso"
+}
+]
